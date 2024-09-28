@@ -19,14 +19,15 @@ I love diving into the world of **coding** and **programming** and I'm currently
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Yacc](https://img.shields.io/badge/-Yacc-004080?style=flat-square&logo=yacc&logoColor=white)
 ![Flex](https://img.shields.io/badge/-Flex-004080?style=flat-square&logo=flex&logoColor=white)
 ![Bison](https://img.shields.io/badge/-Bison-900C3F?style=flat-square&logo=gnu&logoColor=white)
-![Bash Scripting](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-FFA500?style=flat-square&logo=vhdl&logoColor=white)
 
 **Tools:**
