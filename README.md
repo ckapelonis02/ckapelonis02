@@ -6,12 +6,12 @@ I love diving into the world of **coding** and **programming** and I'm currently
 
 
 
-## 🌟 A bit about me:
+## ☄️ A bit about me:
 
 - 🐧 Linux fanboy.
 - 🎓 Working towards my degree while juggling various projects.
 - 🇬🇷 Native, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 C2 level, 🇩🇪 B2 level.
-- ⚽️ Proud supporter of **Manchester United**.
+- ⚽️ Proud supporter of Manchester United.
 - 🐱 Cat lover.
 - 🎞️ Love watching movies, TV series and anime!
 
@@ -21,7 +21,7 @@ I love diving into the world of **coding** and **programming** and I'm currently
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logoColor=white)
 ![Bash Scripting](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -43,7 +43,7 @@ I love diving into the world of **coding** and **programming** and I'm currently
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-## 📫 Let's connect!
+## ✉️ Let's connect!
 
 Feel free to reach out or check out my projects!
 
