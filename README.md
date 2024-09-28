@@ -4,8 +4,11 @@ My name is Charilaos Kapelonis and I'm a passionate **Electrical and Computer En
 
 I love diving into the world of **coding** and **programming** and I'm currently exploring the exciting fields of **Machine Learning** and **Data Science**.
 
+
+
 ## 🌟 A bit about me:
 
+- 🐧 Linux fanboy.
 - 🎓 Working towards my degree while juggling various projects.
 - 🇬🇷 Native, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 C2 level, 🇩🇪 B2 level.
 - ⚽️ Proud supporter of **Manchester United**.
