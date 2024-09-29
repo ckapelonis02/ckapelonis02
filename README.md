@@ -42,6 +42,10 @@ I love diving into the world of **coding** and **programming** and I'm currently
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-5C2D91?style=flat-square&logo=web&logoColor=white)
+
+
 
 ## ✉️ Let's connect!
 
