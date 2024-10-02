@@ -5,6 +5,10 @@ My name is Charilaos Kapelonis and I'm a passionate **Electrical and Computer En
 I love diving into the world of **coding** and **programming** and I'm currently exploring the exciting fields of **Machine Learning** and **Data Science**.
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ckapelonis02&color=blue&abbreviated=true" alt="Profile views" />
+</p>
+
 
 ## ☄️ A bit about me:
 
