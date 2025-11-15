@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Charilaos Kapelonis and I'm a passionate **Electrical and Computer Engineering** student at the **Technical University of Crete** in **Chania, Greece**.
+My name is Charilaos Kapelonis and I have been working as an AI/ML Engineer at **European Dynamics** since November 2025.
+
+I graduated in 2025 with a degree in **Electrical and Computer Engineering** at the **Technical University of Crete** in **Chania, Greece**.
 
 I love diving into the world of **coding** and **programming** and I'm currently exploring the exciting fields of **Machine Learning** and **Data Science**.
 
@@ -13,10 +15,10 @@ I love diving into the world of **coding** and **programming** and I'm currently
 ## ☄️ A bit about me:
 
 - 🐧 Linux fanboy.
-- 🎓 Working towards my degree while juggling various projects.
+- 🎓 Electrical & Computer Engineer Graduate.
 - 🇬🇷 Native, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 C2 level, 🇩🇪 B2 level.
 - ⚽️ Proud supporter of Manchester United.
-- 🐱 Cat lover.
+- 🐱 Cat lover (although recently diagnosed with cat allergies😷).
 - 🎞️ Love watching movies, TV series and anime!
 
 ## 🔧 Technologies & Skills:
